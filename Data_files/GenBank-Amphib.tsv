@@ -1,0 +1,349 @@
+Year	Taxon	CountType	myCount
+1992	Anura	RawCount	0
+1993	Anura	RawCount	57
+1994	Anura	RawCount	1
+1995	Anura	RawCount	31
+1996	Anura	RawCount	32
+1997	Anura	RawCount	50
+1998	Anura	RawCount	29
+1999	Anura	RawCount	39
+2000	Anura	RawCount	177
+2001	Anura	RawCount	97
+2002	Anura	RawCount	159
+2003	Anura	RawCount	216
+2004	Anura	RawCount	154
+2005	Anura	RawCount	400
+2006	Anura	RawCount	268
+2007	Anura	RawCount	430
+2008	Anura	RawCount	351
+2009	Anura	RawCount	176
+2010	Anura	RawCount	192
+2011	Anura	RawCount	242
+2012	Anura	RawCount	273
+2013	Anura	RawCount	232
+2014	Anura	RawCount	215
+2015	Anura	RawCount	292
+2016	Anura	RawCount	174
+2017	Anura	RawCount	285
+2018	Anura	RawCount	292
+2019	Anura	RawCount	248
+2020	Anura	RawCount	284
+1992	Caudata	RawCount	0
+1993	Caudata	RawCount	13
+1994	Caudata	RawCount	12
+1995	Caudata	RawCount	22
+1996	Caudata	RawCount	2
+1997	Caudata	RawCount	17
+1998	Caudata	RawCount	22
+1999	Caudata	RawCount	34
+2000	Caudata	RawCount	30
+2001	Caudata	RawCount	77
+2002	Caudata	RawCount	27
+2003	Caudata	RawCount	12
+2004	Caudata	RawCount	61
+2005	Caudata	RawCount	51
+2006	Caudata	RawCount	52
+2007	Caudata	RawCount	24
+2008	Caudata	RawCount	18
+2009	Caudata	RawCount	7
+2010	Caudata	RawCount	9
+2011	Caudata	RawCount	28
+2012	Caudata	RawCount	42
+2013	Caudata	RawCount	35
+2014	Caudata	RawCount	16
+2015	Caudata	RawCount	14
+2016	Caudata	RawCount	9
+2017	Caudata	RawCount	11
+2018	Caudata	RawCount	18
+2019	Caudata	RawCount	26
+2020	Caudata	RawCount	28
+1992	Gymnophiona	RawCount	0
+1993	Gymnophiona	RawCount	4
+1994	Gymnophiona	RawCount	0
+1995	Gymnophiona	RawCount	0
+1996	Gymnophiona	RawCount	0
+1997	Gymnophiona	RawCount	0
+1998	Gymnophiona	RawCount	0
+1999	Gymnophiona	RawCount	1
+2000	Gymnophiona	RawCount	2
+2001	Gymnophiona	RawCount	0
+2002	Gymnophiona	RawCount	7
+2003	Gymnophiona	RawCount	0
+2004	Gymnophiona	RawCount	5
+2005	Gymnophiona	RawCount	4
+2006	Gymnophiona	RawCount	5
+2007	Gymnophiona	RawCount	5
+2008	Gymnophiona	RawCount	8
+2009	Gymnophiona	RawCount	1
+2010	Gymnophiona	RawCount	3
+2011	Gymnophiona	RawCount	10
+2012	Gymnophiona	RawCount	4
+2013	Gymnophiona	RawCount	2
+2014	Gymnophiona	RawCount	5
+2015	Gymnophiona	RawCount	5
+2016	Gymnophiona	RawCount	0
+2017	Gymnophiona	RawCount	5
+2018	Gymnophiona	RawCount	4
+2019	Gymnophiona	RawCount	8
+2020	Gymnophiona	RawCount	2
+1992	unspecified Anura	RawCount	0
+1993	unspecified Anura	RawCount	4
+1994	unspecified Anura	RawCount	0
+1995	unspecified Anura	RawCount	1
+1996	unspecified Anura	RawCount	2
+1997	unspecified Anura	RawCount	1
+1998	unspecified Anura	RawCount	8
+1999	unspecified Anura	RawCount	4
+2000	unspecified Anura	RawCount	20
+2001	unspecified Anura	RawCount	8
+2002	unspecified Anura	RawCount	65
+2003	unspecified Anura	RawCount	69
+2004	unspecified Anura	RawCount	59
+2005	unspecified Anura	RawCount	122
+2006	unspecified Anura	RawCount	103
+2007	unspecified Anura	RawCount	84
+2008	unspecified Anura	RawCount	141
+2009	unspecified Anura	RawCount	188
+2010	unspecified Anura	RawCount	229
+2011	unspecified Anura	RawCount	275
+2012	unspecified Anura	RawCount	184
+2013	unspecified Anura	RawCount	205
+2014	unspecified Anura	RawCount	133
+2015	unspecified Anura	RawCount	379
+2016	unspecified Anura	RawCount	171
+2017	unspecified Anura	RawCount	183
+2018	unspecified Anura	RawCount	406
+2019	unspecified Anura	RawCount	272
+2020	unspecified Anura	RawCount	405
+1992	unspecified Caudata	RawCount	0
+1993	unspecified Caudata	RawCount	0
+1994	unspecified Caudata	RawCount	0
+1995	unspecified Caudata	RawCount	0
+1996	unspecified Caudata	RawCount	1
+1997	unspecified Caudata	RawCount	0
+1998	unspecified Caudata	RawCount	0
+1999	unspecified Caudata	RawCount	1
+2000	unspecified Caudata	RawCount	3
+2001	unspecified Caudata	RawCount	6
+2002	unspecified Caudata	RawCount	0
+2003	unspecified Caudata	RawCount	14
+2004	unspecified Caudata	RawCount	13
+2005	unspecified Caudata	RawCount	1
+2006	unspecified Caudata	RawCount	14
+2007	unspecified Caudata	RawCount	17
+2008	unspecified Caudata	RawCount	5
+2009	unspecified Caudata	RawCount	1
+2010	unspecified Caudata	RawCount	6
+2011	unspecified Caudata	RawCount	8
+2012	unspecified Caudata	RawCount	9
+2013	unspecified Caudata	RawCount	46
+2014	unspecified Caudata	RawCount	10
+2015	unspecified Caudata	RawCount	9
+2016	unspecified Caudata	RawCount	2
+2017	unspecified Caudata	RawCount	6
+2018	unspecified Caudata	RawCount	13
+2019	unspecified Caudata	RawCount	23
+2020	unspecified Caudata	RawCount	61
+1992	unspecified Gymnophiona	RawCount	0
+1993	unspecified Gymnophiona	RawCount	0
+1994	unspecified Gymnophiona	RawCount	0
+1995	unspecified Gymnophiona	RawCount	2
+1996	unspecified Gymnophiona	RawCount	0
+1997	unspecified Gymnophiona	RawCount	0
+1998	unspecified Gymnophiona	RawCount	0
+1999	unspecified Gymnophiona	RawCount	0
+2000	unspecified Gymnophiona	RawCount	0
+2001	unspecified Gymnophiona	RawCount	0
+2002	unspecified Gymnophiona	RawCount	15
+2003	unspecified Gymnophiona	RawCount	0
+2004	unspecified Gymnophiona	RawCount	6
+2005	unspecified Gymnophiona	RawCount	3
+2006	unspecified Gymnophiona	RawCount	3
+2007	unspecified Gymnophiona	RawCount	7
+2008	unspecified Gymnophiona	RawCount	2
+2009	unspecified Gymnophiona	RawCount	2
+2010	unspecified Gymnophiona	RawCount	13
+2011	unspecified Gymnophiona	RawCount	9
+2012	unspecified Gymnophiona	RawCount	65
+2013	unspecified Gymnophiona	RawCount	0
+2014	unspecified Gymnophiona	RawCount	3
+2015	unspecified Gymnophiona	RawCount	2
+2016	unspecified Gymnophiona	RawCount	0
+2017	unspecified Gymnophiona	RawCount	1
+2018	unspecified Gymnophiona	RawCount	8
+2019	unspecified Gymnophiona	RawCount	0
+2020	unspecified Gymnophiona	RawCount	1
+1992	Anura	CumulCount	0
+1993	Anura	CumulCount	57
+1994	Anura	CumulCount	58
+1995	Anura	CumulCount	89
+1996	Anura	CumulCount	121
+1997	Anura	CumulCount	171
+1998	Anura	CumulCount	200
+1999	Anura	CumulCount	239
+2000	Anura	CumulCount	416
+2001	Anura	CumulCount	513
+2002	Anura	CumulCount	672
+2003	Anura	CumulCount	888
+2004	Anura	CumulCount	1042
+2005	Anura	CumulCount	1442
+2006	Anura	CumulCount	1710
+2007	Anura	CumulCount	2140
+2008	Anura	CumulCount	2491
+2009	Anura	CumulCount	2667
+2010	Anura	CumulCount	2859
+2011	Anura	CumulCount	3101
+2012	Anura	CumulCount	3374
+2013	Anura	CumulCount	3606
+2014	Anura	CumulCount	3821
+2015	Anura	CumulCount	4113
+2016	Anura	CumulCount	4287
+2017	Anura	CumulCount	4572
+2018	Anura	CumulCount	4864
+2019	Anura	CumulCount	5112
+2020	Anura	CumulCount	5396
+1992	Caudata	CumulCount	0
+1993	Caudata	CumulCount	13
+1994	Caudata	CumulCount	25
+1995	Caudata	CumulCount	47
+1996	Caudata	CumulCount	49
+1997	Caudata	CumulCount	66
+1998	Caudata	CumulCount	88
+1999	Caudata	CumulCount	122
+2000	Caudata	CumulCount	152
+2001	Caudata	CumulCount	229
+2002	Caudata	CumulCount	256
+2003	Caudata	CumulCount	268
+2004	Caudata	CumulCount	329
+2005	Caudata	CumulCount	380
+2006	Caudata	CumulCount	432
+2007	Caudata	CumulCount	456
+2008	Caudata	CumulCount	474
+2009	Caudata	CumulCount	481
+2010	Caudata	CumulCount	490
+2011	Caudata	CumulCount	518
+2012	Caudata	CumulCount	560
+2013	Caudata	CumulCount	595
+2014	Caudata	CumulCount	611
+2015	Caudata	CumulCount	625
+2016	Caudata	CumulCount	634
+2017	Caudata	CumulCount	645
+2018	Caudata	CumulCount	663
+2019	Caudata	CumulCount	689
+2020	Caudata	CumulCount	717
+1992	Gymnophiona	CumulCount	0
+1993	Gymnophiona	CumulCount	4
+1994	Gymnophiona	CumulCount	4
+1995	Gymnophiona	CumulCount	4
+1996	Gymnophiona	CumulCount	4
+1997	Gymnophiona	CumulCount	4
+1998	Gymnophiona	CumulCount	4
+1999	Gymnophiona	CumulCount	5
+2000	Gymnophiona	CumulCount	7
+2001	Gymnophiona	CumulCount	7
+2002	Gymnophiona	CumulCount	14
+2003	Gymnophiona	CumulCount	14
+2004	Gymnophiona	CumulCount	19
+2005	Gymnophiona	CumulCount	23
+2006	Gymnophiona	CumulCount	28
+2007	Gymnophiona	CumulCount	33
+2008	Gymnophiona	CumulCount	41
+2009	Gymnophiona	CumulCount	42
+2010	Gymnophiona	CumulCount	45
+2011	Gymnophiona	CumulCount	55
+2012	Gymnophiona	CumulCount	59
+2013	Gymnophiona	CumulCount	61
+2014	Gymnophiona	CumulCount	66
+2015	Gymnophiona	CumulCount	71
+2016	Gymnophiona	CumulCount	71
+2017	Gymnophiona	CumulCount	76
+2018	Gymnophiona	CumulCount	80
+2019	Gymnophiona	CumulCount	88
+2020	Gymnophiona	CumulCount	90
+1992	unspecified Anura	CumulCount	0
+1993	unspecified Anura	CumulCount	4
+1994	unspecified Anura	CumulCount	4
+1995	unspecified Anura	CumulCount	5
+1996	unspecified Anura	CumulCount	7
+1997	unspecified Anura	CumulCount	8
+1998	unspecified Anura	CumulCount	16
+1999	unspecified Anura	CumulCount	20
+2000	unspecified Anura	CumulCount	40
+2001	unspecified Anura	CumulCount	48
+2002	unspecified Anura	CumulCount	113
+2003	unspecified Anura	CumulCount	182
+2004	unspecified Anura	CumulCount	241
+2005	unspecified Anura	CumulCount	363
+2006	unspecified Anura	CumulCount	466
+2007	unspecified Anura	CumulCount	550
+2008	unspecified Anura	CumulCount	691
+2009	unspecified Anura	CumulCount	879
+2010	unspecified Anura	CumulCount	1108
+2011	unspecified Anura	CumulCount	1383
+2012	unspecified Anura	CumulCount	1567
+2013	unspecified Anura	CumulCount	1772
+2014	unspecified Anura	CumulCount	1905
+2015	unspecified Anura	CumulCount	2284
+2016	unspecified Anura	CumulCount	2455
+2017	unspecified Anura	CumulCount	2638
+2018	unspecified Anura	CumulCount	3044
+2019	unspecified Anura	CumulCount	3316
+2020	unspecified Anura	CumulCount	3721
+1992	unspecified Caudata	CumulCount	0
+1993	unspecified Caudata	CumulCount	0
+1994	unspecified Caudata	CumulCount	0
+1995	unspecified Caudata	CumulCount	0
+1996	unspecified Caudata	CumulCount	1
+1997	unspecified Caudata	CumulCount	1
+1998	unspecified Caudata	CumulCount	1
+1999	unspecified Caudata	CumulCount	2
+2000	unspecified Caudata	CumulCount	5
+2001	unspecified Caudata	CumulCount	11
+2002	unspecified Caudata	CumulCount	11
+2003	unspecified Caudata	CumulCount	25
+2004	unspecified Caudata	CumulCount	38
+2005	unspecified Caudata	CumulCount	39
+2006	unspecified Caudata	CumulCount	53
+2007	unspecified Caudata	CumulCount	70
+2008	unspecified Caudata	CumulCount	75
+2009	unspecified Caudata	CumulCount	76
+2010	unspecified Caudata	CumulCount	82
+2011	unspecified Caudata	CumulCount	90
+2012	unspecified Caudata	CumulCount	99
+2013	unspecified Caudata	CumulCount	145
+2014	unspecified Caudata	CumulCount	155
+2015	unspecified Caudata	CumulCount	164
+2016	unspecified Caudata	CumulCount	166
+2017	unspecified Caudata	CumulCount	172
+2018	unspecified Caudata	CumulCount	185
+2019	unspecified Caudata	CumulCount	208
+2020	unspecified Caudata	CumulCount	269
+1992	unspecified Gymnophiona	CumulCount	0
+1993	unspecified Gymnophiona	CumulCount	0
+1994	unspecified Gymnophiona	CumulCount	0
+1995	unspecified Gymnophiona	CumulCount	2
+1996	unspecified Gymnophiona	CumulCount	2
+1997	unspecified Gymnophiona	CumulCount	2
+1998	unspecified Gymnophiona	CumulCount	2
+1999	unspecified Gymnophiona	CumulCount	2
+2000	unspecified Gymnophiona	CumulCount	2
+2001	unspecified Gymnophiona	CumulCount	2
+2002	unspecified Gymnophiona	CumulCount	17
+2003	unspecified Gymnophiona	CumulCount	17
+2004	unspecified Gymnophiona	CumulCount	23
+2005	unspecified Gymnophiona	CumulCount	26
+2006	unspecified Gymnophiona	CumulCount	29
+2007	unspecified Gymnophiona	CumulCount	36
+2008	unspecified Gymnophiona	CumulCount	38
+2009	unspecified Gymnophiona	CumulCount	40
+2010	unspecified Gymnophiona	CumulCount	53
+2011	unspecified Gymnophiona	CumulCount	62
+2012	unspecified Gymnophiona	CumulCount	127
+2013	unspecified Gymnophiona	CumulCount	127
+2014	unspecified Gymnophiona	CumulCount	130
+2015	unspecified Gymnophiona	CumulCount	132
+2016	unspecified Gymnophiona	CumulCount	132
+2017	unspecified Gymnophiona	CumulCount	133
+2018	unspecified Gymnophiona	CumulCount	141
+2019	unspecified Gymnophiona	CumulCount	141
+2020	unspecified Gymnophiona	CumulCount	142

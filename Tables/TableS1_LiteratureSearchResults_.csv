@@ -1,0 +1,21 @@
+﻿Search term,Category,2016,2017,2018,2019,2020,Percent_Change,Totals_CalculatedFromYears,Total_ViaSearch,"Totals_Including ""xenopus"" or ""axolotl""",Percent_ModelOrganism
+background pub rate,background pub rate,1405865,1386764,1414322,1466197,1559117,110.900904,7232265,7232265,,
+Amphibian_Base,Amphibian_Base,1568,1630,1626,1540,1800,114.795918,8164,8164,365,4.47084762
+physiology,physiology,27,27,29,22,40,148.148148,145,145,11,7.5862069
+conservation,conservation,210,202,184,201,233,110.952381,1030,1030,22,2.13592233
+cell AND molecular,cell AND molecular,21,24,14,30,24,114.285714,113,113,28,24.7787611
+"""genetic"" OR ""genetics"" OR ""genomic"" OR ""genomics""",genetic(s) OR genomic(s),162,164,163,207,191,117.901235,887,887,46,5.18602029
+"""behavior"" OR ""behaviour""",behavior,136,145,133,130,157,115.441177,701,701,22,3.13837375
+morphology,morphology,70,71,71,79,84,120,375,375,18,4.8
+ecology,ecology,60,62,57,62,100,166.666667,341,341,1,0.29325513
+development,development,206,215,210,202,209,101.456311,1042,1042,128,12.2840691
+climate,climate,80,88,87,106,111,138.75,472,472,6,1.27118644
+"""fossil"" or ""fossils""",fossil(s),30,20,25,22,29,96.6666667,126,126,0,0
+microbiome,microbiome,7,11,4,15,9,128.571429,46,46,0,0
+"""trait"" or ""traits""",trait(s),97,116,88,124,128,131.958763,553,553,10,1.80831826
+diet,diet,48,50,40,46,78,162.5,262,262,5,1.90839695
+eDNA,eDNA,8,16,12,10,13,162.5,59,59,2,3.38983051
+"""phylogenetic"" OR ""phylogenetics""",phylogenetic(s),122,115,114,106,149,122.131148,606,606,11,1.81518152
+"""phylogenomic"" OR ""phylogenomics""",phylogenomic(s),3,4,4,5,7,233.333333,23,23,0,0
+"""genetic"" OR ""genetics""",genetic(s),145,156,137,180,166,114.482759,784,784,34,4.33673469
+"""genomic"" OR ""genomics""",genomic(s),36,31,40,52,43,119.444444,202,202,20,9.9009901
