@@ -121,7 +121,7 @@ df_sum$Category = factor(df_sum$Category, levels = c('Habitat alteration and los
 labels <- c('Anura\n\n7404 species\n(1901 accounts)', 'Caudata\n\n766 species\n(398 accounts)', 'Gymnophiona\n\n214 species\n(65 accounts)')
 df_sum$Order <- factor(df_sum$Order, levels = c('Anura', 'Caudata', 'Gymnophiona'), labels = labels)                   
                    
-tiff("Figure2.tiff", units="in", width=7.5, height=4.8, res=400)
+tiff("Figure2_v2.tiff", units="in", width=7.5, height=4.8, res=400)
 ggplot(data=df_sum, aes(x=Category, y=nSpecies, fill=IUCN.Red.List.Status)) +
   geom_bar(stat="identity", color="black", size=0.4, width=0.8)+
   labs(title="Major threats to amphibian orders") +
@@ -135,7 +135,7 @@ ggplot(data=df_sum, aes(x=Category, y=nSpecies, fill=IUCN.Red.List.Status)) +
         text=element_text(size=9, family="Calibri", face="plain"),
         axis.title.y=element_blank(), 
         axis.text = element_text(size=9, family="Calibri", face="plain"),         
-        plot.margin = unit(c(0, 0, 0, 0), "cm"), 
+        plot.margin = unit(c(0.2, 0, 0, 0), "cm"), 
         legend.position = "top", 
         legend.text=element_text(family="Calibri", face="plain"),
         legend.title = element_blank(),
