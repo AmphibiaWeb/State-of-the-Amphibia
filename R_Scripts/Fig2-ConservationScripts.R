@@ -135,7 +135,7 @@ ggplot(data=df_sum, aes(x=Category, y=nSpecies, fill=IUCN.Red.List.Status)) +
         text=element_text(size=9, family="Calibri", face="plain"),
         axis.title.y=element_blank(), 
         axis.text = element_text(size=9, family="Calibri", face="plain"),         
-        plot.margin = unit(c(0.2, 0, 0, 0), "cm"), 
+        plot.margin = unit(c(0.1, 0.1, 0.1, 0.1), "cm"), 
         legend.position = "top", 
         legend.text=element_text(family="Calibri", face="plain"),
         legend.title = element_blank(),
